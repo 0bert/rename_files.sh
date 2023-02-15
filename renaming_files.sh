@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Author : OS
+#Author : O.S
 #Date   : Feb 15 2023
 #Des    : Renaming files with date and time
 
